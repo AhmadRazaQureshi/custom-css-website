@@ -28,11 +28,9 @@ function Hero(){
                     We are passionate about creating innovative and user-friendly websites that meet the needs of our clients
           . With expertise in HTML, CSS, JavaScript, and Next.js, we strive to deliver high-quality web solutions 
           tailored to your specific requirements.
-          Our mission is to provide exceptional service and ensure your  online presence 
-          stands out. Whether you need a personal blog, a corporate website, or an e-commerce platform,
-          we have the skills and experience to bring your vision to life.
+          
                     </p>
-                    {/* <button className="hero-btn">Hire Me</button> */}
+                  
                 </div>
 
             </div>
